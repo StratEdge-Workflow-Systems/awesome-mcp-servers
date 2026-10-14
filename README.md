@@ -348,6 +348,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 
 <br />
+- <img src="https://remitbot.ai/favicon.ico" height="14" alt="RemitBot Logo"/> [RemitBot](https://github.com/StratEdge-Workflow-Systems/remitbot-mcp) - Pre-settlement payment policy gate for AI agents (counterparty allowlists, spending limits, dual-control hold routing, and signed audit receipts).
 
 ## 🧬 <a name="research-data"></a>Research & Data
 
